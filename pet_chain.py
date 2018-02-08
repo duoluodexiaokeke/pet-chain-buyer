@@ -174,3 +174,4 @@ if __name__ == "__main__":
     while True:
         pc.get_market()
         time.sleep(2) # 每隔三秒执行一次
+   
